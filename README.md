@@ -1,5 +1,5 @@
 # Sentiment Analysis using Natural Language Processing
-#### This repository contains the code for a sentiment analysis done using Natural Language Processing and Classification models.
+#### This repository contains the code for a sentiment analysis done using Natural Language Processing and Classification models. It trains on a bunch on restaurant reviews, creates a bag of words model, and passes it through a classification model to get the predictions. 
 
 
 ## Table of Contents
